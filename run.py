@@ -23,7 +23,7 @@ TOKEN = "5837622538:AAHcz6d9hfmIZ43gYUPWmw9DOWTZxjOVeto"
 TELEGRAM_USER = "AbubakarLawan112"
 
 # Heroku Credentials
-APP_URL = "https://715d-102-91-4-239.eu.ngrok.io/"
+APP_URL = "https://telegram-to-mt.vercel.app/"
 
 # Port number for Telegram bot web hook
 PORT = int(os.environ.get('PORT', '8443'))
